@@ -26,6 +26,8 @@ https://discord.gg/5g34g8sVsT
 
 Bot Website: https://omutilities.netlify.app/
 
+Emoji Server: https://discord.gg/3DPYrUwTap
+
 ![video_image (1)](https://user-images.githubusercontent.com/76506512/150546673-a1602a88-fa51-4916-b123-d81f70fd96a9.jpeg)
 
 
