@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Egy Fortnite játékos statisztikáinak megtekintése!",
+    "USAGE": "{{prefix}}fortnite [psn/xbl/pc] [pszeudo]",
+    "EXAMPLES": "{{prefix}}fortnite pc Ninja",
+    "MISSING_PLATFORM": "Kérjük, adja meg egy platformot ezek közül: `psn` `pc` vagy `xbl`!",
+    "MISSING_USERNAME": "Kérlek adj meg egy érvényes epic games felhasználónevet!",
+    "NOT_FOUND": "`{{search}}` nemntalálható a(z) `{{platform}}` platformon!",
+    "TITLE": "{{username}} Fortinte Statisztikái",
+    "AVERAGE_KILLS": "ÖLÉSEK/MECCSEK",
+    "AVERAGE_KILL": "ÖLÉS/MECCS",
+    "W_PERCENT": "W%",
+    "WIN_PERCENT": "NYERÉSEK%",
+    "KD": "KD",
+    "WINS": "Nyerések",
+    "WIN": "Nyerés",
+    "MATCHES": "Meccsek",
+    "MATCH": "Meccs",
+    "KILLS": "Ölések",
+    "KILL": "Ölés",
+    "FOOTER": "Om Utilities által fortnitetracker.com használatával"
+}

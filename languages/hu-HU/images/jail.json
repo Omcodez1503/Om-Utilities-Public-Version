@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"börtön\" képet hozok létre az Amethyste API segítségével",
+    "USAGE": "{{prefix}}jail (@tag)",
+    "EXAMPLES": "{{prefix}}jail\n{{prefix}}jail @Androz#2091"
+}

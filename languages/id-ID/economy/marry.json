@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Nikahi seseorang yang kamu cintai!",
+    "USAGE": "{{prefix}}marry [@anggota]",
+    "EXAMPLES": "{{prefix}}marry @Androz#2091",
+    "INVALID_MEMBER": "Kamu harus menyebut anggota yang valid!",
+    "ALREADY_MARRIED": "Kamu sudah menikah! Pertama gunakan `{{prefix}}divorce` untuk bercerai.",
+    "ALREADY_MARRIED_USER": "Tempat ini sudah diambil, pendamping! **{{username}}** sudah menikah!",
+    "YOURSELF": "Kamu tidak dapat menikahi dirimu sendiri!",
+    "REQUEST_AUTHOR_TO_AMEMBER": "Kamu sudah memiliki permintaan yang menunggu keputusan **{{username}}**!",
+    "REQUEST_AMEMBER_TO_AUTHOR": "**{{username}}** telah mengirimkanmu permintaan! Harap tolak atau terima (atau tunggu sampai kadaluwarsa dalam beberapa menit).",
+    "REQUEST_AMEMBER_TO_MEMBER": "**{{secondUsername}}** telah mengirim permintaan ke **{{firstUsername}}**!",
+    "REQUEST_MEMBER_TO_AMEMBER": "**{{firstUsername}} telah mengirim permintaan ke **{{secondUsername}}**! Tunggu sampai **{{secondUsername}}** menerima atau menolak permintaan dari **{{firstUsername}}** atau sampai masa berlakunya habis dan coba lagi!",
+    "TIMEOUT": "{{username}} tidak menjawab... Tunggu sampai dia login dan coba lagi!",
+    "SUCCESS": "🎉 Selamat! **{{creator}}** dan **{{partner}}** kamu sekarang sudah menikah!",
+    "DENIED": "{{creator}}, Aku punya berita buruk... {{partner}} menolak lamaranmu.",
+    "REQUEST": "{{to}}, apakah kamu setuju untuk menikahi {{from}}? Jawab dengan \"yes\" atau \"no\"!",
+    "BOT_USER": "Dia menolak lamaranmu!"
+}

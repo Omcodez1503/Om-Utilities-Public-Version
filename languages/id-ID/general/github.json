@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Menunjukkan informasi repositori Github Om Utilities!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Klik disini untuk mengakses github Om Utilities",
+    "LANGUAGE": "Bahasa pemrograman",
+    "OWNER": "Pemilik repositori Om Utilities"
+}

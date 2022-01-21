@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Ativar/desativar mensagens de boas-vindas!",
+    "USAGE": "{{prefix}}welcome",
+    "EXAMPLES": "{{prefix}}welcome",
+    "MISSING_STATUS": "Você deve especificar uma ação válida entre `edit` e `off`",
+    "DEFAULT_MESSAGE": "Bem-vindo {user} ao servidor {server}, agora estamos com {membercount}! Sua conta foi criada {createdat}.",
+    "TEST_SUCCESS": "Teste executado!",
+    "FORM_1": "**Em qual canal as mensagens de boas-vindas serão enviadas?**\n\n:arrow_right_hook: *Responda mencionando um canal!*",
+    "FORM_2": "**Por favor, digite sua mensagem de boas-vindas desejada. *\n\n**Se você quiser:**\n*-* __Mencionar o usuário__: {user}\n*-* __Obter o contador de membros__: {membercount}\n*-* __Obter o nome do servidor __: {server}\n\n**Exemplo de uso:**\nBem-vindo ao servidor {server}, {user}! Agora somos {membercount}!\n:fast_forward:\nBem-vindo ao {{guildName}}, {{author}}! Agora somos {{memberCount}}!",
+    "FORM_3": "**Você também quer exibir uma belíssima imagem de boas-vindas?**\n\n:arrow_right_hook: *Responda enviando `sim` ou `não`!*",
+    "FORM_SUCCESS": "**Sucesso!**\n\n:arrow_right_hook: *Use `{{prefix}}welcome test` para visualizar sua mensagem de boas-vindas personalizada!*",
+    "DISABLED": "**As mensagens de despedida foram desativadas!**\n\n:arrow_right_hook: *Use `{{prefix}}configuration` para ver as configurações do servidor!*",
+    "IMG_WELCOME": "Bem-vindo/a ao servidor {{server}}!",
+    "IMG_NB": "- {{memberCount}}° membro!",
+    "TITLE": "BEM-VINDO/A"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Atur tanggal lahir yang muncul di profilmu",
+    "USAGE": "{{prefix}}birthdate (tanggal)",
+    "EXAMPLES": "{{prefix}}birthdate 01/12/2000",
+    "MISSING_DATE": "Harap berikan tanggal yang valid! Misalnya, 01/12/2000",
+    "INVALID_DATE": "Kamu harus menggunakan format tanggal berikut: DD / MM / YYYY. Misalnya, `1 Desember 2000` akan menjadi` 01/12 / 2000`.",
+    "INVALID_DATE_FORMAT": "Kamu harus menggunakan format tanggal berikut: DD / MM / YYYY. Misalnya, `1 Desember 2000` akan menjadi` 01/12 / 2000`.",
+    "DATE_TOO_HIGH": "Lebih dari 80 tahun? :eyes:",
+    "DATE_TOO_LOW": "Humm, tidak! Kamu pasti baru lahir!",
+    "SUCCESS": "Hari lahirmu telah diatur pada {{date}}!"
+}

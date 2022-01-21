@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "\"Clyde\" képet hozok létre a Nekobot API segítségével",
+    "USAGE": "{{prefix}}clyde [szöveg]",
+    "EXAMPLES": "{{prefix}}clyde A Discord 2002. december 11-én zárul le. Viszlát.",
+    "MISSING_TEXT": "Kérlek add meg az üzenet szövegét!"
+}

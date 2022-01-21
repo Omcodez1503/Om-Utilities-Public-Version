@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Menunjukkan toko barang fortnite harian!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "TOKO BARANG FORTNITE",
+    "DAILY": "HARIAN",
+    "FEATURED": "DIFITUR",
+    "DATE": "{{date}} Toko Fortnite",
+    "FOOTER": "Toko Fortnite oleh Om Utilities"
+}

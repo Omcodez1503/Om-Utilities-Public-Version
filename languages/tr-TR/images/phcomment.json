@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Generates a \"phcomment\" image",
+    "USAGE": "{{prefix}}phcomment (@üye) [text]",
+    "EXAMPLES": "{{prefix}}phcomment Merhaba!\n{{prefix}}phcomment @Androz#2091 Merhaba!",
+    "MISSING_TEXT": "Lütfen uygun bir yorum gir!"
+}

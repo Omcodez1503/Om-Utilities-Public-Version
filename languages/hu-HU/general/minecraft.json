@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Egy Minecraft szerverről információk megtekintése!",
+    "USAGE": "{{prefix}}minecraft [ip]",
+    "EXAMPLES": "{{prefix}}minecraft mc.hypixel.net",
+    "MISSING_IP": "Kérlek adj meg egy érvényes IP címet!",
+    "FAILED": "Ez a szerver offline állapotban van, vagy blokkolja a hozzáférést!",
+    "ONLINE": "Elérhető",
+    "OFFLINE": "Nem elérhető",
+    "PLAYERS": "{{count}} játékos(ok)",
+    "FIELD_NAME": "Információk a(z) {{ip}} szerverről",
+    "FIELD_VERSION": "Verzió",
+    "FIELD_CONNECTED": "Jelenleg csatlakoztatva",
+    "FIELD_MAX": "Maximum",
+    "FIELD_STATUS": "Státusz",
+    "FIELD_IP": "Teljes IP"
+}

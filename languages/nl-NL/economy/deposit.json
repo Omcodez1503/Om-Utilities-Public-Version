@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Stort uw geld op de bank",
+    "USAGE": "{{prefix}}deposit [amount]",
+    "EXAMPLES": "{{prefix}}deposit 400",
+    "MISSING_AMOUNT": "Please specify an amount!",
+    "NO_CREDIT": "U heeft geen credits om op de bank te storten!",
+    "NO_ENOUGH_CREDIT": "Je hebt geen `{{money}}` credits!",
+    "SUCCESS": "**{{money}}** credits gestort op de bank!"
+}

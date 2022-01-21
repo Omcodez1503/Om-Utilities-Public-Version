@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Lancez une fête de Findwords, un jeu où vous devez trouver des mots !",
+    "USAGE": "{{prefix}}findwords",
+    "EXAMPLES": "{{prefix}}findwords",
+    "INVALID_WORD": "{{member}} | Votre mot n'est pas valide !",
+    "GAME_STARTING": ":timer: | La partie commence dans 10 secondes !",
+    "FIND_WORD": "20 secondes pour trouver un mot contenant \"__**{{word}}**__\" !",
+    "WORD_FOUND": "Bravo {{winner}} ! Vous avez été le plus rapide pour entrer un mot valide !",
+    "GAME_STATS": "🎉 | {{winner}} a gagné le giveaway !\n\n**Statistiques:**\n*-* __ ** Durée ** __: {{time}}\n*-* __ ** Participants ** __: {{participants}} ({{participantCount}})** Statistiques du jeu: **\n__** Durée ** __: {{duration}}\n__ ** Nombre de participants **__: {{participantCount}}\n__** Participants ** __:\n{{participantList}}",
+    "CREDITS": "{{winner}} gagne 15 crédits ! 🎉",
+    "NO_WINNER_ALL": "Personne n'as trouvé de mots, personne ne gagne !",
+    "NO_WINNER": "Personne n'as trouvé de mots, personne ne gagne !"
+}

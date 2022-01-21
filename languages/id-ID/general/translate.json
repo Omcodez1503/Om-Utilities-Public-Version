@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Terjemahkan teks-mu!",
+    "USAGE": "{{prefix}}translate [bahasa] [pesan]",
+    "EXAMPLES": "{{prefix}}translate fr Apa kabarmu ?",
+    "LIST_SENT": "Daftar bahasa baru saja dikirimkan kepada Anda melalui pesan pribadi!",
+    "MISSING_LANGUAGE": "Harap masukkan bahasa! Untuk menampilkan daftar bahasa, ketik `{{prefix}}translate langs-list`!",
+    "INVALID_LANGUAGE": "Bahasa `{{search}}` tidak ada! Untuk menampilkan daftar bahasa, ketik `{{prefix}} translate langs-list`!",
+    "MISSING_CONTENT": "Harap berikan teks untuk diterjemahkan!"
+}

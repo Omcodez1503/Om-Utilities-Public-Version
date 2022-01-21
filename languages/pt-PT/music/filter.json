@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Ative ou desative um filtro!",
+    "USAGE": "{{prefix}}filter [filtro]",
+    "EXAMPLES": "{{prefix}}filter vaporwave",
+    "MISSING_FILTER": "Você precisa especificar um filtro válido para alterar o seu status. Para visualizar a lista de filtros utilize o comando `{{prefix}}filters`",
+    "UNKNOWN_FILTER": "Este filtro não existe! Use `{{prefix}}filters` para visualizar a lista de filtros.",
+    "ADDING_FILTER": "Estou aplicando o filtro na música atual, por favor aguarde! Nota: Quanto mais curta for a música, mais rápido será este processo.",
+    "REMOVING_FILTER": "Estou removendo o filtro da música atual, por favor aguarde! Nota: Quanto mais curta for a música, mais rápido será este processo."
+}

@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Genera una imagen de \"Triggered\" usando la API de Nekobot",
+    "USAGE": "{{prefix}}triggered (@miembro)",
+    "EXAMPLES": "{{prefix}}triggered\n{{prefix}}triggered @Androz#2091"
+}

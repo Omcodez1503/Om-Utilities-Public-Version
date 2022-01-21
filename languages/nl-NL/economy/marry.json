@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Trouw met iemand van wie je houdt!",
+    "USAGE": "{{prefix}}marry [@member]",
+    "EXAMPLES": "{{prefix}}marry @Androz#2091",
+    "INVALID_MEMBER": "You must mention a valid member!",
+    "ALREADY_MARRIED": "Je bent al getrouwd! Gebruik eerst `{{prefix}}divorce` om te scheiden.",
+    "ALREADY_MARRIED_USER": "De plaats is ingenomen, metgezel! **{{username}}** is al getrouwd!",
+    "YOURSELF": "Je kunt niet met jezelf trouwen!",
+    "REQUEST_AUTHOR_TO_AMEMBER": "U heeft al een verzoek in behandeling om **{{username}}**!",
+    "REQUEST_AMEMBER_TO_AUTHOR": "**{{username}}** heeft je al een verzoek gestuurd! Weiger of accepteer het (of wacht tot het over een paar minuten verloopt).",
+    "REQUEST_AMEMBER_TO_MEMBER": "**{{secondUsername}}** heeft al een verzoek verzonden naar **{{firstUsername}}**!",
+    "REQUEST_MEMBER_TO_AMEMBER": "**{{firstUsername}} heeft al een verzoek verzonden naar **{{secondUsername}}**! Wacht tot **{{secondUsername}}** het verzoek van **{{firstUsername}}** accepteert of weigert of totdat het verloopt en probeer het opnieuw!",
+    "TIMEOUT": "{{username}} did not answer... Wait until he/she is logged in and try again!",
+    "SUCCESS": "🎉 Gefeliciteerd! **{{creator}}** en **{{partner}}** je bent nu getrouwd!",
+    "DENIED": "{{creator}}, ik heb slecht nieuws... {{partner}} heeft je voorstel afgewezen.",
+    "REQUEST": "{{to}}, gaat u ermee akkoord te trouwen met {{from}}? Antwoord met \"ja\" of \"nee\"!",
+    "BOT_USER": "It refused your proposal!"
+}

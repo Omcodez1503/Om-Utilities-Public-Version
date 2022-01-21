@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Pénz felvétele!",
+    "USAGE": "{{prefix}}withdraw [összeg]",
+    "EXAMPLES": "{{prefix}}withdraw 400",
+    "MISSING_AMOUNT": "Kérjlek, add meg a kivenni kívánt összeget!",
+    "NO_CREDIT": "Nincs kredited a bankban!",
+    "NOT_ENOUGH": "Legalább `{{money}}` kreditre van szükséged!",
+    "SUCCESS": "**{{money}}** kredit(ek) kivéve!"
+}

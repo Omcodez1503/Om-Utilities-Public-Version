@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Voeg 'n emoji by die server!",
+    "USAGE": "{{prefix}}addemoji [prent-url] [naam]",
+    "EXAMPLES": "{{prefix}}addemoji https://via.placeholder.com/150 test-emoji",
+    "MISSING_URL": "Verskaf asseblief 'n prent URL!",
+    "MISSING_NAME": "Verskaf asseblief 'n emoji naam!",
+    "INVALID_NAME": "The length of the emoji name must be between 2 and 32!",
+    "SUCCESS": ":{{emojiName}}: bygevoeg!",
+    "ERROR": "{{emojiName}} kon nie gevoeg word nie. Kyk of jou server nog spasie het vir nuwe emojis!"
+}

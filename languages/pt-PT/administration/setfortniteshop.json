@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Defina o canal para loja diária de Fortnite!",
+    "USAGE": "{{prefix}}setfortniteshop (#canal)",
+    "EXAMPLES": "{{prefix}}setfortniteshop #loja\n{{prefix}}setfortniteshop",
+    "DISABLED": "Loja diária de Fortnite desabilitada!",
+    "ENABLED": "Loja diária de Fortnite habilitada no canal {{channel}}!"
+}

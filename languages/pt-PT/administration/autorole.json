@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Ative o autorole em um servidor!",
+    "USAGE": "{{prefix}}autorole [on/off] (cargo)",
+    "EXAMPLES": "{{prefix}}autorole on @Membros\n{{prefix}}autorole off",
+    "MISSING_STATUS": "Por favor, forneça um valor válido entre `on` ou `off`",
+    "MISSING_ROLE": "Por favor, especifique um cargo válido!",
+    "SUCCESS_ENABLED": "O autorole foi ativado! Novos membros deste servidor receberão automaticamente o cargo **{{roleName}}**.",
+    "ALREADY_DISABLED": "** O autorole já está desativado.**\n:arrow_right_hook: Use `{{prefix}}autorole on @Cargo` para ativar novamente.",
+    "SUCCESS_DISABLED": "**Autorole desativado!**\n:arrow_right_hook: Utilize `{{prefix}}configuration` para visualizar as configurações atualizada."
+}

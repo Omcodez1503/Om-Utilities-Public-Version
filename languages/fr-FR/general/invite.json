@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Affiche les liens vers Om Utilities !",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Liens vers Om Utilities",
+    "TIP": "Envoyez `{{prefix}}invite copy` pour pouvoir copier le lien d'invitation !",
+    "ADD": "Inviter Om Utilities",
+    "VOTE": "Voter pour Om Utilities",
+    "SUPPORT": "Obtenir de l'aide"
+}

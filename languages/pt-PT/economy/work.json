@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Reivindique seu salário!",
+    "USAGE": "{{prefix}}work",
+    "EXAMPLES": "{{prefix}}work",
+    "COOLDOWN": "Você precisa aguardar {{time}} para poder resgatar seu próximo pagamento!",
+    "AWARD": "Complete a palavra AWARD para ganhar 200 créditos de bônus!",
+    "SALARY": "Salário",
+    "SALARY_CONTENT": "Você ganhou {{won}} créditos!",
+    "STREAK": "À risca",
+    "STREAK_CONTENT": "🎉 Você ganhou 200 créditos de bônus!"
+}

@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Az erdemények listájának megtekintése!",
+    "USAGE": "{{prefix}}achievements",
+    "EXAMPLES": "{{prefix}}achievements",
+    "SEND_CMD": "Küldd el az első parancsodat!",
+    "CLAIM_SALARY": "Tízszer követeld a fizetését!",
+    "MARRY": "Keresd meg a felát, és feleségül veszed!",
+    "SLOTS": "Nyerj 3 alkalommal egymás után résidőkben!",
+    "TIP": "Tartsd életben Atlantát döntetlennel!",
+    "REP": "Nyújts 20 hírnévpontot!",
+    "INVITE": "Hívd meg az Atlantát a szerveredre!",
+    "TITLE": "🔥 Eredmények",
+    "PROGRESS": "Előrehaladás: {{now}}/{{total}} ({{percent}}%)"
+}

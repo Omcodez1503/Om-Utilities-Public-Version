@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Lefordítom a szöveget!",
+    "USAGE": "{{prefix}}translate [nyelv] [üzenet]",
+    "EXAMPLES": "{{prefix}}translate hu How are you?",
+    "LIST_SENT": "A nyelvi listát nemrégiben privát üzenetbe küldtem el neked!",
+    "MISSING_LANGUAGE": "Kérlek, írd be a nyelvet! A nyelvek listájának megtekintéséhez írd be a `{{prefix}}translate langs-list` parancsot!",
+    "INVALID_LANGUAGE": "A nyelv `{{search}}` nem található! A nyelvek listájának megtekintéséhez írd be ezt a parancsot `{{prefix}}translate langs-list`!",
+    "MISSING_CONTENT": "Kérlek, írd be a lefordítandó szöveget!"
+}

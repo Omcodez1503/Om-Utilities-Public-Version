@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Toont de dagelijkse fortnite items-winkel!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "FORTNITE ITEMS SHOP",
+    "DAILY": "DAGELIJKS",
+    "FEATURED": "UITGELICHT",
+    "DATE": "{{date}} Fortnite shop",
+    "FOOTER": "Fortnite Shop by Om Utilities"
+}

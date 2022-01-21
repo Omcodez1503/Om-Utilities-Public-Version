@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Mostra a sua lista de conquistas!",
+    "USAGE": "{{prefix}}achievements",
+    "EXAMPLES": "{{prefix}}achievements",
+    "SEND_CMD": "Envie o seu primeiro comando!",
+    "CLAIM_SALARY": "Resgate seu salário 10 vezes!",
+    "MARRY": "Encontre a sua metade e case!",
+    "SLOTS": "Ganhe 3 vezes seguidas em slots!",
+    "TIP": "Mantenha Om Utilities viva dando gorjeta!",
+    "REP": "Alcance 20 pontos de reputação!",
+    "INVITE": "Convide Om Utilities no seu servidor!",
+    "TITLE": "🔥 Conquistas",
+    "PROGRESS": "Progresso: {{now}}/{{total}} ({{percent}}%)"
+}

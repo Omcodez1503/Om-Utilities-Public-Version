@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Kelime bulmanız gereken bir oyun olan Findwords partisi başlatın!",
+    "USAGE": "{{prefix}}findwords",
+    "EXAMPLES": "{{prefix}}findwords",
+    "INVALID_WORD": "{{member}} | Kelimeniz geçerli değil!",
+    "GAME_STARTING": ":timer: | Oyun 10 saniye içerisinde başlıyor!",
+    "FIND_WORD": "\"__**{{word}}**__\" İçeren bir kelimeyi bulmak için 20 saniyen!",
+    "WORD_FOUND": "Tebrikler {{winner}}! Kelimeyi hızlıca girdi!",
+    "GAME_STATS": "🎉 | {{winner}} Oyunu kazandı!\n\n**Durum:**\n*-* __**Süre**__: {{time}}\n*-* __**Katılımcılar**__: {{participants}} ({{participantCount}})**Stats of the game: **\n__**Süre**__: {{duration}}\n__**Katılımcı sayısı**__ : {{participantCount}}\n__**Katılımcılar**__ : \n{{participantList}}",
+    "CREDITS": "{{winner}} 15 kredi kazandı! 🎉",
+    "NO_WINNER_ALL": "Kelime bulunamadı, kimse kazanamadı!",
+    "NO_WINNER": "Kelime bulunamadı, kimse kazanamadı!"
+}

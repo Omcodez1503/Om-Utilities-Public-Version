@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Menampilkan wewenang anggota di dalam saluran",
+    "USAGE": "{{prefix}}permissions (@anggota)",
+    "EXAMPLES": "{{prefix}}permissions\n{{prefix}}permissions @Androz#2091",
+    "TITLE": "wewenang {{user}} di {{channel}}"
+}

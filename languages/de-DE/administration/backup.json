@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Verwalten Sie Ihre Server-Backups auf effiziente Weise!",
+    "USAGE": "{{prefix}}backup [erstellen/laden/infos]",
+    "EXAMPLES": "{{prefix}} Sicherungskopie erstellt\n{{prefix}} Sicherungskopie lädt 558328638911545423\n{{prefix}} Sicherungskopie infos 558328638911545423",
+    "MISSING_STATUS": "Wählen Sie eine Aktion zwischen: \"Erstellen\", \"Laden\" und \"Info\"!",
+    "MISSING_BACKUP_ID": "Bitte geben Sie eine Backup ID ein!",
+    "NO_BACKUP_FOUND": "Für `{{backupID}}` wurde kein Backup gefunden",
+    "TIMES_UP": "Die Zeit ist um! Backup-Laden abgebrochen!\n\n\n",
+    "SUCCESS_PUBLIC": "Backup erfolgreich erstellt! Die Backup-ID wurde Ihnen in privaten Nachrichten gesendet!",
+    "SUCCESS_PRIVATE": "Hier ist Ihre Backup-ID: `{{backupID}}`, verwenden Sie diese, um Ihr Backup auf einen anderen Server zu laden!",
+    "CONFIRMATION": ": Warnung: | ** Durch das Laden eines Backups wird der eigentliche Server durch den gespeicherten ersetzt. **\n\n: arrow_right_hook: * Antworte, indem du \"bestätige\" sendest, um diese Aktion zu bestätigen! *\n",
+    "START_LOADING": "Backup-Laden gestartet!",
+    "LOAD_SUCCESS": "Backup erfolgreich geladen!",
+    "TITLE_INFOS": "Sicherungsinformationen",
+    "TITLE_ID": "ID",
+    "TITLE_SERVER_ID": "Server ID",
+    "TITLE_SIZE": "Größe",
+    "TITLE_CREATED_AT": "Erstellt am"
+}

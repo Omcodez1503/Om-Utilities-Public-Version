@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Birisine para gönder!",
+    "USAGE": "{{prefix}}pay [@üye] [amount]",
+    "EXAMPLES": "{{prefix}}pay Androz#2091 100",
+    "INVALID_MEMBER": "Lütfen uygun bir üyeyi seç!",
+    "BOT_USER": "Botlar zaten zengin 💰!",
+    "YOURSELF": "Kendine para gönderemezsin!",
+    "INVALID_AMOUNT": "Lütfen uygun bir miktar girin",
+    "ENOUGH_MONEY": "Bu fiyatı **{{amount}}** karşılayamazsın",
+    "SUCCESS": "Sen **{{amount}}** miktarda parayı **{{username}}** üyesine gönderdin!"
+}

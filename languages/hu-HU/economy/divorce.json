@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Válaszd el azt a személyt, akivel jelenleg házas vagy!",
+    "USAGE": "{{prefix}}divorce",
+    "EXAMPLES": "{{prefix}}divorce",
+    "NOT_MARRIED": "Te jelenleg nem vagy házas!",
+    "DIVORCED": "El váltál **{{username}}** felhasználóval!"
+}

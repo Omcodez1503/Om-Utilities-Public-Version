@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Kimin sunucuya ne kadar kişi getirdiğini gösterir!",
+    "USAGE": "{{prefix}}invitations (@üye)",
+    "EXAMPLES": "{{prefix}}invitations\n{{prefix}}invitations @Androz#2091",
+    "NOBODY_AUTHOR": "Bu sunucuya kimseyi davet etmedin!",
+    "NOBODY_MEMBER": "{{member}} bu sunucuya kimseyi davet etmedi!",
+    "CODE": "**{{code}}** ({{uses}} kullanım sayısı) | {{channel}}",
+    "TITLE": "Davet hakkında bilgi gösterir{{member}} Üyesinin {{guild}} sunucusunda",
+    "FIELD_INVITED": "👥 Davet edilen üyeler",
+    "FIELD_CODES": "🔑 Davet kodları",
+    "FIELD_MEMBERS": "{{total}} üyeler",
+    "TRACKER": "Davet takipçisi"
+}

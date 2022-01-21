@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"Burn\" kép generálása",
+    "USAGE": "{{prefix}}burn (@tag)",
+    "EXAMPLES": "{{prefix}}burn\n{{prefix}}burn @Androz#2091"
+}

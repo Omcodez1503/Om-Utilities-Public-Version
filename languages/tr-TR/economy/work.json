@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Maaşını al!",
+    "USAGE": "{{prefix}}work",
+    "EXAMPLES": "{{prefix}}work",
+    "COOLDOWN": "Tekrar çalışmak için {{time}} beklemen gerek!",
+    "AWARD": "Kelime oyununda AWARD Kelimesini tamamla ve 200 bonus kreri kazan!",
+    "SALARY": "Maaş",
+    "SALARY_CONTENT": "{{won}} kredi kazandın!",
+    "STREAK": "Streak",
+    "STREAK_CONTENT": "🎉 200 bonus kredi kazandın!"
+}

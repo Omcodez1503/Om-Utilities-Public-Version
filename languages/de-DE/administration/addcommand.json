@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Füge einen eigenen Command hinzu!",
+    "USAGE": "{{prefix}}addcommand [name] [answer]",
+    "EXAMPLES": "{{prefix}}addcommand hallo Hallo {user}! Wie geht es dir?",
+    "MISSING_NAME": "Bitte gebe einen Command-Namen an!",
+    "MISSING_ANSWER": "Bitte gebe eine Command-Antwort an!",
+    "SUCCESS": "Command **{{prefix}}{{commandName}}** hinzugefügt!"
+}

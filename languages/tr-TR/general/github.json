@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Om Utilities Botunun Github sayfasını gösterir!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Tıkla ve Om Utilities github sayfasına git",
+    "LANGUAGE": "Programlama dili",
+    "OWNER": "Om Utilities botunun sahibi"
+}

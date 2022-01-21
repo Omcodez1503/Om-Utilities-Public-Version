@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Günlük fortnite içerik mağazasını gösterir!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "FORTNITE İÇERİK MAĞAZASI",
+    "DAILY": "GÜNLÜK",
+    "FEATURED": "ÖNE ÇIKAN",
+    "DATE": "{{date}} Fortnite İçerik mağazası",
+    "FOOTER": "Fortnite İçerik mağazası! Om Utilities tarafından"
+}

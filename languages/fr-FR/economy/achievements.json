@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Afficher la liste de vos réalisations !",
+    "USAGE": "{{prefix}}achievements",
+    "EXAMPLES": "{{prefix}}achievements",
+    "SEND_CMD": "Envoyez votre première commande !",
+    "CLAIM_SALARY": "Réclamer votre salaire 10 fois !",
+    "MARRY": "Trouvez votre moitié et marriez-vous !",
+    "SLOTS": "Gagnez 3 fois de suite à la machine à sous !",
+    "TIP": "Maintenez Om Utilities en vie en faisant un don !",
+    "REP": "Obtenez 20 points de réputation !",
+    "INVITE": "Invitez Om Utilities sur votre serveur !",
+    "TITLE": "🔥 Succès",
+    "PROGRESS": "Progression: {{now}}/{{total}} ({{percent}}%)"
+}

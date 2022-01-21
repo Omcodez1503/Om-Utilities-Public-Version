@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Evlendiğin kişiden boşan!",
+    "USAGE": "{{prefix}}divorce",
+    "EXAMPLES": "{{prefix}}divorce",
+    "NOT_MARRIED": "Şuanda evli değilsin!",
+    "DIVORCED": "**{{username}}** kullanıcısından ayrıldın!"
+}

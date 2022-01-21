@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Mostra a loja diária de itens do fortnite!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "FORTNITE ITENS LOJA",
+    "DAILY": "DIARIAMENTE",
+    "FEATURED": "DESTAQUE",
+    "DATE": "{{date}} Loja Fortnite",
+    "FOOTER": "Fortnite Shop by Om Utilities"
+}

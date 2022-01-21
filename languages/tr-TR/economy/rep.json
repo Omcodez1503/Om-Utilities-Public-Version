@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Birisine güven puanı ver!",
+    "USAGE": "{{prefix}}rep [user]",
+    "EXAMPLES": "{{prefix}}rep @Androz#2091",
+    "COOLDOWN": "Birisine Güven puanı vermeden önce {{time}} Beklemen gerekiyor!",
+    "INVALID_USER": "Lütfen uygun bir üyeyi seç!",
+    "BOT_USER": "Botlara Güven puanı ekleyemezsin!",
+    "YOURSELF": "Kendine güven puanı veremezsin!",
+    "SUCCESS": "{{username}} kullanıcısına güven puanı verdin!"
+}

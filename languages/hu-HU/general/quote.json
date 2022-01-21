@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Idézz egy üzenetet egy csatornából!",
+    "USAGE": "{{prefix}}quote [üzenetID] [csatorna]",
+    "EXAMPLES": "{{prefix}}quote 596018101921906698\n{{prefix}}quote 596018101921906698 573508780520898581\n{{prefix}}quote 596018101921906698 #blabla",
+    "NO_MESSAGE_ID": "Egy üzenet sem rendelkezik ezzel az ID-vel.",
+    "NO_CHANNEL_ID": "Egy csatorna sem rendelkezik ezzel az ID-vel.",
+    "MISSING_ID": "Adj meg egy érvényes üzenet ID-t az izédéshez!"
+}

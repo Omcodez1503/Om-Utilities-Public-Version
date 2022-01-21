@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Birine Sevgini göster!",
+    "USAGE": "{{prefix}}marry [@üye]",
+    "EXAMPLES": "{{prefix}}marry @Androz#2091",
+    "INVALID_MEMBER": "Lütfen uygun bir üyeyi seç!",
+    "ALREADY_MARRIED": "Sen zaten evlisin! Önce `{{prefix}}divorce` komutunu kullanarak boşan.",
+    "ALREADY_MARRIED_USER": "Burası kapıldı şampiyon! **{{username}}** zaten evli!",
+    "YOURSELF": "Kendinle evlenemezsin!",
+    "REQUEST_AUTHOR_TO_AMEMBER": "Zaten şuanda bekleyen evlenme teklifin var **{{username}}** üyesine!",
+    "REQUEST_AMEMBER_TO_AUTHOR": "**{{username}}**sana evlenme teklifi göndermiş! Lütfen kabul veya reddet (veya bir kaç dakika bekle otomatik iptal olsun).",
+    "REQUEST_AMEMBER_TO_MEMBER": "**{{secondUsername}}** zaten **{{firstUsername}}** üyesine istek göndermiş!",
+    "REQUEST_MEMBER_TO_AMEMBER": "** {{firstUsername}}, ** {{secondUsername}} ** üyesine zaten bir istek gönderdi! ** {{secondUsername}} **, ** {{firstUsername}} ** 'den gelen isteği kabul edene veya reddedene kadar veya süresi dolana kadar bekleyin ve tekrar deneyin!",
+    "TIMEOUT": "{{username}} teklifine cevap vermedi... biraz bekle bay/bayan giriş yaptığı zaman tekrar gönder!",
+    "SUCCESS": "🎉 Tebrikler! **{{creator}}** ve **{{partner}}** artık evliler!",
+    "DENIED": "{{creator}}, kötü haberlerim var... {{partner}} teklifini kabul etmedi.",
+    "REQUEST": "{{to}}, sen {{from}} eşin olarak kabul ediyormusun? \"yes\" veya \"no\" olarak cevap ver!",
+    "BOT_USER": "Teklifinizi reddetti!"
+}

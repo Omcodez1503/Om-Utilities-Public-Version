@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Vertaal jouw text!",
+    "USAGE": "{{prefix}}translate [language] [message]",
+    "EXAMPLES": "{{prefix}}translate fr Hoe gaat het ?",
+    "LIST_SENT": "De vertaling lijst is verzonden naar jou in een prive bericht!",
+    "MISSING_LANGUAGE": "Alsjeblieft gebruik een vertaling! Om alle vertalingen te zien type `{{prefix}}translate langs-list`!",
+    "INVALID_LANGUAGE": "De vertaling `{{search}}` bestaat niet! Om alle vertalingen te zien type `{{prefix}}translate langs-list`!",
+    "MISSING_CONTENT": "Voer een tekst in om te vertalen!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Megmutatja azokat a felhasználókat, akiknek a legtöbb kredite, szintje vagy hírnévpontja van!",
+    "USAGE": "{{prefix}}leaderboard [rep/levels/credits]",
+    "EXAMPLES": "{{prefix}}leaderboard credits\n{{prefix}}leaderboard levels",
+    "MISSING_TYPE": "Kérlek add meg a ranglistán szereplő típust a következők közül: `credits`, `level` és `rep`",
+    "MOBILE": ":confused: Azt észleltem, hogy telefont használsz. Lehet, hogy a ranglista nem jelenik meg jól a kis képernyő. Próbálj meg váltani gépre vagy lépj be az irányítópultra!"
+}

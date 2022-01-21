@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Profilinde gözükmesi için doğum gününü ayarla",
+    "USAGE": "{{prefix}}birthdate (tarih)",
+    "EXAMPLES": "{{prefix}}birthdate 01/12/2000",
+    "MISSING_DATE": "Lütfen uygun bir tarih gir! Örneğin, 01/12/2000",
+    "INVALID_DATE": "Girdiğin format şu şekile olamalıdır: GG/AY/YYYY. Mesela, `Aralık 1, 2000` demek istiyorsan `01/12/2000` şeklinde girmen gerek.",
+    "INVALID_DATE_FORMAT": "Girdiğin format şu şekile olamalıdır: GG/AY/YYYY. Mesela, `Aralık 1, 2000` demek istiyorsan `01/12/2000` şeklinde girmen gerek.",
+    "DATE_TOO_HIGH": "80 yaşından büyük müsün? :eyes:",
+    "DATE_TOO_LOW": "Ne? daha doğmamış sın!",
+    "SUCCESS": "Doğum günün {{date}} tarihine ayarlandı!"
+}

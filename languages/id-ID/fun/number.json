@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Temukan nomor yang benar!",
+    "USAGE": "{{prefix}}number",
+    "EXAMPLES": "{{prefix}}number",
+    "GAME_START": "Nomor terpilih, kamu bisa mulai!",
+    "BIG": "{{user}} | Nomorku **lebih besar** daripada `{{number}}`!",
+    "SMALL": "{{user}} | Nomorku **lebih kecil** daripada `{{number}}`!",
+    "WON": "{{winner}} telah memenangkan 10 kredit!",
+    "DEFEAT": "Tidak ada yang dapat menemukan nomornya! Nomornya adalah **{{number}}**!",
+    "GAME_STATS": "🎉 | {{winner}} menemukan nomor yang benar! Nomornya adalah__**{{number}}**__!\n\n**Statistik:**\n*-* __**Durasi**__: {{time}}\n*-* __**Peserta**__: {{participants}} ({{participantCount}})",
+    "GAME_RUNNING": "Permainan sedang berlangsung di server ini!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Hastebine yazı yükle!",
+    "USAGE": "{{prefix}}hastebin [text]",
+    "EXAMPLES": "{{prefix}}hastebin Merhaba Dünya!",
+    "MISSING_TEXT": "Lütfen uygun bir veri giriniz!",
+    "SUCCESS": "Yükleme tamamlandı!"
+}

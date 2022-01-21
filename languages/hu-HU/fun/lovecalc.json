@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Mennyi szeretet van két ember között? *Ez egy szórakoztató parancs, nem szabad komolyan venni*",
+    "USAGE": "{{prefix}}lovecalc [@tag1] (@tag2)",
+    "EXAMPLES": "{{prefix}}lovecalc @Androz#2091\n{{prefix}}lovecalc @Androz#2091 @Om Utilities#6770",
+    "MISSING": "Két tagot kell megemlítened!",
+    "CONTENT": "Van **{{percent}}%** a szeretetre **{{firstUsername}}** és **{{secondUsername}}** felhasználók között!\n**Gratulálok!**"
+}

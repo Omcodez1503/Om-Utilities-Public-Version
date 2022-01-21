@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Shows information about the server!",
+    "USAGE": "{{prefix}}serverinfo [ID/Nombre]",
+    "EXAMPLES": "{{prefix}}serverinfo Om Utilities\n{{prefix}}serverinfo",
+    "AFK_CHANNEL": "Canal AFK",
+    "NO_AFK_CHANNEL": "No hay canal AFK",
+    "MEMBERS": "{{count}} miembros",
+    "BOTS": "{{count}} bots",
+    "BOOSTS": "Cantidad de Boosts",
+    "TEXT_CHANNELS": "{{count}} texto",
+    "VOICE_CHANNELS": "{{count}} voz",
+    "CAT_CHANNELS": "{{count}} categorías"
+}

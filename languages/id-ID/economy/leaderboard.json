@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Menunjukan pengguna dengan kredit terbanyak, tingkatan atau poin reputasi!",
+    "USAGE": "{{prefix}}leaderboard [rep/levels/credits]",
+    "EXAMPLES": "{{prefix}}leaderboard credits\n{{prefix}}leaderboard levels",
+    "MISSING_TYPE": "Harap tentukan tipe papan peringkat antara `credits`, `level` dan `rep`",
+    "MOBILE": ":confused: Kami mendeteksi bahwa Anda menggunakan telepon.... Papan peringkat mungkin tidak ditampilkan dengan baik di layar kecil. Cobalah untuk beralih ke lanskap atau buka dasbor!"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Menunjukan jumlah orang yang telah kamu undang ke server!",
+    "USAGE": "{{prefix}}invitations (@anggota)",
+    "EXAMPLES": "{{prefix}}invitations\n{{prefix}}invitations @Androz#2091",
+    "NOBODY_AUTHOR": "Kamu tidak mengundang siapapun ke server!",
+    "NOBODY_MEMBER": "{{member}} tidak mengundang siapapun ke server!",
+    "CODE": "**{{code}}** ({{uses}} digunakan) | {{channel}}",
+    "TITLE": "Informasi tentang undangan dari {{member}} di {{guild}}",
+    "FIELD_INVITED": "👥 Anggota yang Diundang",
+    "FIELD_CODES": "🔑 Kode",
+    "FIELD_MEMBERS": "{{total}} anggota",
+    "TRACKER": "Pelacak Undangan"
+}

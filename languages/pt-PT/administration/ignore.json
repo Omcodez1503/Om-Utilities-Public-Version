@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Alternar comandos em um canal",
+    "USAGE": "{{prefix}}ignore [canal]",
+    "EXAMPLES": "{{prefix}}ignore #canal",
+    "ALLOWED": "Os comandos agora são permitidos no canal {{channel}}!",
+    "IGNORED": "Os comandos agora são proibidos no canal {{channel}}!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Ceraikan orang yang saat ini sudah kamu nikahi!",
+    "USAGE": "{{prefix}}divorce",
+    "EXAMPLES": "{{prefix}}divorce",
+    "NOT_MARRIED": "Saat ini kamu belum menikah!",
+    "DIVORCED": "Kamu baru saja bercerai dengan **{{username}}**!"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Kanaldaki bir mesajı alıntılayın!",
+    "USAGE": "{{prefix}}quote [messageID] [channel]",
+    "EXAMPLES": "{{prefix}}quote 596018101921906698\n{{prefix}}quote 596018101921906698 573508780520898581\n{{prefix}}quote 596018101921906698 #blabla",
+    "NO_MESSAGE_ID": "Bu ID de mesaj yok.",
+    "NO_CHANNEL_ID": "Bu ID de kanal yok.",
+    "MISSING_ID": "Lütfen alıntılamak için uygun bir mesaj gir!"
+}

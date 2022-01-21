@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Bir üyeyi soy!",
+    "USAGE": "{{prefix}}rob [@üye] [amount]",
+    "EXAMPLES": "{{prefix}}rob @Androz#2091 100",
+    "YOURSELF": "Kendini soyamazsın!",
+    "MISSING_MEMBER": "Lütfen Soymak için uygun bir üye seçin!",
+    "MISSING_AMOUNT": "Lütfen uygun bir miktar girin!",
+    "NOT_ENOUGH_AUTHOR": "Bu soygunu denemek için ** {{moneyMin}} ** 'den fazla krediye sahip olmanız gerekir (şimdilik ** {{moneyCurrent}} ** krediniz var)!",
+    "NOT_ENOUGH_MEMBER": "**{{username}}** üyesini soymayı deneyemezsin çünkü cebinde yeteri kadar parası yok!",
+    "COOLDOWN": "🕵️ **{{username}}** koruma altında.... Biraz bekle ve sonra tekrar dene!",
+    "ROB_WON_1": "🎉 | Tebrikler! Polis soygunu durduracak kadar hızlı değildi **{{money}}** kredi **{{username}}** üyesine!",
+    "ROB_WON_2": "😕 | **{{username}}** ? Kötü haber. Soyuldun!**{{money}}** kredi kadar!",
+    "ROB_LOSE_1": "🚔 | Polis sizi çalarken yakaladı, inkar etmeye çalışma! cezanız ** {{fine}} ** kredi. ** {{offset}} ** kredileri ** {{username}} ** 'e ödenecektir.",
+    "ROB_LOSE_2": "🚓 | Kötü haber.... ** {{username}} ** polisi zamanında aradı. Cezanız ** {{fine}} ** kredidir ve ** {{offset}} ** kredisi ** {{username}} ** 'ye ödenecektir."
+}

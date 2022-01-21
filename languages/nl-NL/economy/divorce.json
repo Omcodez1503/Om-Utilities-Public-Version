@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Scheid de persoon met wie je momenteel getrouwd bent!",
+    "USAGE": "{{prefix}}divorce",
+    "EXAMPLES": "{{prefix}}divorce",
+    "NOT_MARRIED": "Je bent momenteel niet getrouwd!",
+    "DIVORCED": "You just divorced with **{{username}}** !"
+}

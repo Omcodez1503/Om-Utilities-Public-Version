@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Menunjukan daftar prestasimu!",
+    "USAGE": "{{prefix}}achievements",
+    "EXAMPLES": "{{prefix}}achievements",
+    "SEND_CMD": "Kirim perintah pertamamu!",
+    "CLAIM_SALARY": "Klaim gajimu 10 kali!",
+    "MARRY": "Temukan pasanganmu dan menikah!",
+    "SLOTS": "Menang 3 kali berturut - turut dalam slot!",
+    "TIP": "Jaga agar Om Utilities tetap hidup dengan memberi tip!",
+    "REP": "Capai 20 poin reputasi!",
+    "INVITE": "Undang Om Utilities ke servermu!",
+    "TITLE": "🔥 Prestasi",
+    "PROGRESS": "Kemajuan: {{now}}/{{total}} ({{percent}}%)"
+}

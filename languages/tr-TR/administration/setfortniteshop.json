@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Fortnite günlük içerik mağazasını ayarla!",
+    "USAGE": "{{prefix}}setfortniteshop (#kanal)",
+    "EXAMPLES": "{{prefix}}setfortniteshop #shop\n{{prefix}}setfortniteshop",
+    "DISABLED": "Günlük Fortnite içerik mağazası kapatıldı!",
+    "ENABLED": "Günlük Fortnite içerik mağazası şu kanala {{channel}} atılacak!"
+}

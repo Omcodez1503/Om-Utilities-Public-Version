@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Discog umschalten lädt zum automatischen Löschen ein",
+    "USAGE": "{{prefix}}automod [ein / aus] (#channel)",
+    "EXAMPLES": "{{prefix}}Automod ein\n{{prefix}}automod aus #general\n{{prefix}}Automod aus",
+    "MISSING_STATUS": "Bitte geben Sie einen gültigen Wert zwischen \"Ein\" und \"Aus\" ein",
+    "ENABLED": "** Zwietracht Einladungen werden automatisch gelöscht! **\n\n:arrow_right_hook: * Sende `{{prefix}} automod off # channel`, um einen Kanal zu ignorieren! *",
+    "DISABLED_CHANNEL": "Die automatische Moderation wird in {{channel}} nicht mehr durchgeführt!",
+    "DISABLED": "Gut! Die automatische Moderation ist auf diesem Server nicht mehr wirksam!",
+    "DELETED": "Ihre Nachricht wurde gelöscht, da Discord-Einladungen auf diesem Server nicht zulässig sind!"
+}

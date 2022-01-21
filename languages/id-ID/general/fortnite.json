@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Manunjukan statistik pemain Fortnite!",
+    "USAGE": "{{prefix}}fortnite [psn/xbl/pc] [nama]",
+    "EXAMPLES": "{{prefix}}fortnite pc Ninja",
+    "MISSING_PLATFORM": "Harap tentukan platform antara `psn`, `pc` atau `xbl`!",
+    "MISSING_USERNAME": "Harap berikan nama pengguna epic games yang valid!",
+    "NOT_FOUND": "`{{search}}` tidak dapat ditemukan di `{{platform}}`!",
+    "TITLE": "Statistik Fortnite {{username}}",
+    "AVERAGE_KILLS": "MEMBUNUH/PERTANDINGAN",
+    "AVERAGE_KILL": "MEMBUNUH/PERTANDINGAN",
+    "W_PERCENT": "M%",
+    "WIN_PERCENT": "MENANG%",
+    "KD": "KD",
+    "WINS": "Kemenangan",
+    "WIN": "Menang",
+    "MATCHES": "Pertandingan",
+    "MATCH": "Pertandingan",
+    "KILLS": "Membunuh",
+    "KILL": "Membunuh",
+    "FOOTER": "Oleh Om Utilities menggunakan fortnitetracker.com"
+}

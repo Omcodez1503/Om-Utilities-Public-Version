@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Setor uangmu di bank",
+    "USAGE": "{{prefix}}deposit [jumlah]",
+    "EXAMPLES": "{{prefix}}deposit 400",
+    "MISSING_AMOUNT": "Harap tentukan jumlahnya!",
+    "NO_CREDIT": "Kamu tidak punya kredit untuk disetor di bank!",
+    "NO_ENOUGH_CREDIT": "Kamu tidak punya `{{money}}` kredit!",
+    "SUCCESS": "**{{money}}** kredit telah disetor di bank!"
+}

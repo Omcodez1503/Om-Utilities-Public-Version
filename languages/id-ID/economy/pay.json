@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Kirim uang ke seseorang!",
+    "USAGE": "{{prefix}}pay [@anggota] [jumlah]",
+    "EXAMPLES": "{{prefix}}pay Androz#2091 100",
+    "INVALID_MEMBER": "Kamu harus menyebut anggota yang valid!",
+    "BOT_USER": "Bot sudah kaya 💰!",
+    "YOURSELF": "Kamu tidak dapat membayar dirimu sendiri!",
+    "INVALID_AMOUNT": "Kamu harus menentukan jumlah yang valid",
+    "ENOUGH_MONEY": "Kamu tidak mampu membayar **{{amount}}**",
+    "SUCCESS": "Kamu baru membayar **{{amount}}** ke **{{username}}**!"
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Oyuncuların fortnite istatistiklerini gösterir!",
+    "USAGE": "{{prefix}}fortnite [psn/xbl/pc] [pseudo]",
+    "EXAMPLES": "{{prefix}}fortnite pc Ninja",
+    "MISSING_PLATFORM": "Lütfen uygun bir platform giriniz `psn`, `pc` veya `xbl`!",
+    "MISSING_USERNAME": "Lütfen uygun bir epic games kullanıcı adı gir!",
+    "NOT_FOUND": "`{{search}}` adlı oyuncu `{{platform}}` platformunda bulamadım!",
+    "TITLE": "{{username}} Fortnite İstatistikleri",
+    "AVERAGE_KILLS": "ÖLDÜRME/MAÇ",
+    "AVERAGE_KILL": "ÖLME/MAÇ",
+    "W_PERCENT": "W%",
+    "WIN_PERCENT": "KAZANMA%",
+    "KD": "KD",
+    "WINS": "Kazanmalar",
+    "WIN": "Kazanma",
+    "MATCHES": "Maçlar",
+    "MATCH": "Maç",
+    "KILLS": "Öldürmeler",
+    "KILL": "Ölme",
+    "FOOTER": "By Om Utilities fortnitetracker.com kullanıyor!"
+}

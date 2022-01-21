@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Om Utilities Kumarhanesi",
+    "USAGE": "{{prefix}}slots [amount]",
+    "EXAMPLES": "{{prefix}}slots\n{{prefix}}slots 10",
+    "DEFEAT": "**{{username}}** adlı üye {{money}} kredi kullandı ve herşeyini kaybetti.",
+    "VICTORY": "**{{username}}** adlı üye{{money}} kredi kullandı ve {{won}} kredi kazandı!",
+    "NOT_ENOUGH": "Şu kadar kredi **{{money}}** lazım yapabilmek için."
+}

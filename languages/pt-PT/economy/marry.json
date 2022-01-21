@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "Case com alguém que você ama!",
+    "USAGE": "{{prefix}}marry [@membro]",
+    "EXAMPLES": "{{prefix}}marry @Androz#2091",
+    "INVALID_MEMBER": "You must mention a valid member!",
+    "ALREADY_MARRIED": "Você já é casado! Primeiro use `{{prefix}}divorce` para divorciar.",
+    "ALREADY_MARRIED_USER": "O lugar está ocupado, companheiro! **{{username}}** já é casado!",
+    "YOURSELF": "Você não pode se casar!",
+    "REQUEST_AUTHOR_TO_AMEMBER": "Você já tem uma solicitação pendente para **{{username}}**!",
+    "REQUEST_AMEMBER_TO_AUTHOR": "**{{username}}** já lhe enviou uma solicitação! Recuse-o ou aceite-o (ou aguarde até que ele expire em alguns minutos).",
+    "REQUEST_AMEMBER_TO_MEMBER": "**{{secondUsername}}** já enviou uma solicitação para **{{firstUsername}}**!",
+    "REQUEST_MEMBER_TO_AMEMBER": "**{{firstUsername}} já enviou uma solicitação para **{{secondUsername}}**! Espere até **{{secondUsername}}** aceita ou recusa a solicitação de **{{firstUsername}}** ou espere até expirar e tente novamente!",
+    "TIMEOUT": "{{username}} did not answer... Wait until he/she is logged in and try again!",
+    "SUCCESS": "🎉 Parabéns! **{{creator}}** e **{{partner}}** agora você é casado!",
+    "DENIED": "{{creator}}, Eu tenho más notícias... {{partner}} recusou sua proposta.",
+    "REQUEST": "{{to}}, voce concorda em se casar {{from}}? Responda com \"yes\" or \"no\"!",
+    "BOT_USER": "It refused your proposal!"
+}

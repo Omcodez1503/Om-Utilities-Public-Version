@@ -1,0 +1,10 @@
+{
+    "ONE_DAY": "1 dag",
+    "DAYS": "{{amount}} dae",
+    "ONE_HOUR": "1 uur",
+    "HOURS": "{{amount}} ure",
+    "ONE_MINUTE": "1 minuut",
+    "MINUTES": "{{amount}} minute",
+    "ONE_SECOND": "1 sekond",
+    "SECONDS": "{{amount}} sekondes"
+}

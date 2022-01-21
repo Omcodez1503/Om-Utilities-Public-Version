@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Menghasilkan pesan gambar \"Clyde\" menggunakan Nekkobot API",
+    "USAGE": "{{prefix}}clyde [teks]",
+    "EXAMPLES": "{{prefix}}clyde Discord akan ditutup pada 11 Desember 2002. Selamat tinggal.",
+    "MISSING_TEXT": "Harap tentukan pesan teks!"
+}

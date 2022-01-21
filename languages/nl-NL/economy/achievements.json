@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Shows your achievements list!",
+    "USAGE": "{{prefix}}achievements",
+    "EXAMPLES": "{{prefix}}achievements",
+    "SEND_CMD": "Stuur je eerste commando!",
+    "CLAIM_SALARY": "Claim your salary 10 times!",
+    "MARRY": "Vind je helft en trouw!",
+    "SLOTS": "Win 3 keer op rij in slots!",
+    "TIP": "Houd Om Utilities in leven door een fooi te geven!",
+    "REP": "Bereik 20 reputatiepunten!",
+    "INVITE": "Nodig Om Utilities uit op je server!",
+    "TITLE": "🔥 Prestaties",
+    "PROGRESS": "Voortgang: {{now}}/{{total}} ({{percent}}%)"
+}

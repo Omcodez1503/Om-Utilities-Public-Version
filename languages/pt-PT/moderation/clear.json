@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Exclua rapidamente múltiplas mensagens!",
+    "USAGE": "{{prefix}}clear [números-de-mensagens] (@membro)",
+    "EXAMPLES": "{{prefix}}clear 10\n{{prefix}}clear 10 @Androz#2091",
+    "MISSING_AMOUNT": "Deves especificar um número de mensagens para excluir!",
+    "ALL_CONFIRM": "Todas as mensagens deste canal serão excluídas! Para confirmar digite `-confirm`",
+    "CHANNEL_CLEARED": "Canal limpo!",
+    "CLEARED": "{{amount}} mensagens foram excluídas!",
+    "CLEARED_MEMBER": "**{{amount}}** mensagens de **{{username}}** foram excluídas!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "En çok krediye, seviyeye veya rep puanına sahip kullanıcıların listesini gösterir!",
+    "USAGE": "{{prefix}}leaderboard [rep/levels/credits]",
+    "EXAMPLES": "{{prefix}}leaderboard credits\n{{prefix}}leaderboard levels",
+    "MISSING_TYPE": "Lütfem sıralama ya bakmak için şunlardan birini kullan `credits`, `level` veya `rep`",
+    "MOBILE": ":confused: Telefon kullandığınızı tespit ettik.... Skor tablosu küçük ekranlarda iyi görüntülenmeyebilir. Geniş ekrana geçmeyi deneyin veya kontrol paneline gidin!"
+}

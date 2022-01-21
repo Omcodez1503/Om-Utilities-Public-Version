@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Aktiviert oder deaktiviert die Verabschiedungs-Nachricht!",
+    "USAGE": "{{prefix}}goodbye",
+    "EXAMPLES": "{{prefix}}goodbye",
+    "DEFAULT_MESSAGE": "Auf Wiedersehen, {user}! Wir sind jetzt nur noch {membercount} ohne dich... :'(",
+    "TEST_SUCCESS": "Test ausgeführt!",
+    "FORM_1": "**In welchem Kanal werden Nachrichten versendet? **\n\n:arrow_right_hook: *Antworten durch Erwähnung eines Kanals!*",
+    "FORM_2": "**Bitte geben Sie Ihre gewünschte Abschiedsnachricht ein. *\n\n**Wenn du möchtest:**\n*-* __Erwähnung des Benutzer__: {user}\n*-* __Anzahl der Mitgleider {membercount}\n*-* __Gebe den Servername aus__: {server}\n\n**Nutzungsbeispiel:**\nAuf Wiedersehen, {user}, wir werden dich vermissen! Wir sind jetzt {membercount}.\n:fast_forward:\nAuf Wiedersehen, {{author}}, wir werden Sie vermissen! Wir sind jetzt {{memberCount}}.",
+    "FORM_3": "**Möchtest du auch ein großartiges Abschiedsbild erhalten?**\n\n:arrow_right_hook: *Antwort durch das Senden von `yes` oder `no`!*",
+    "FORM_SUCCESS": "**Okay, fertig!**\n\n:arrow_right_hook: *Antwort, indem du `{{prefix}}goodbey test` schickst, um eine Vorschau deiner benutzerdefinierten Abschiedsnachricht anzuzeigen!*",
+    "MAX_CHARACT": "Deine Nachricht darf 1800 Zeichen nicht überschreiten!",
+    "DISABLED": "**Goodbye-Nachrichten wurden gerade deaktiviert!**\n\n:arrow_right_hook: *Antworte, indem du `{{prefix}}configuration schickst, um die aktualisierte Serverkonfiguration zu sehen!*",
+    "IMG_GOODBYE": "Verlasse {{server}}!",
+    "IMG_NB": "- {{memberCount}}. Mitglied!",
+    "TITLE": "GOODBYE"
+}

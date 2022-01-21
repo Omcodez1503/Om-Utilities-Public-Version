@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Menghasilkan gambar \"tweet\" menggunakan Nekobot API",
+    "USAGE": "{{prefix}}tweet [@nama_pengguna_twitter] [konten]",
+    "EXAMPLES": "{{prefix}}tweet @ElonMusk Halo",
+    "MISSING_USERNAME": "Kamu harus memberikan nama pengguna twitter seseorang!",
+    "MISSING_TEXT": "Kamu harus menentukan konten tweet!",
+    "SUCCESS": "Tweet baru oleh {{user}}:"
+}

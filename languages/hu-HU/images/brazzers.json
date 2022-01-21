@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"Diktátor\" kép generálása",
+    "USAGE": "{{prefix}}dictator (@tag)",
+    "EXAMPLES": "{{prefix}}dictator\n{{prefix}}dictator @Androz#2091"
+}

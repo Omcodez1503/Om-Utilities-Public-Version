@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Om Utilities linklerini göster!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Om Utilities linkleri",
+    "TIP": "Şunu yazarak `{{prefix}}invite copy` davet linkini kopyala!",
+    "ADD": "Om Utilities'yı Kendi sunucuna ekle",
+    "VOTE": "Om Utilities'ya oy ver",
+    "SUPPORT": "Destek al"
+}

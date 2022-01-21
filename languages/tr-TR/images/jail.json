@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Amethyste API yı kullanarak bir üyeyi \"hapse\" koy",
+    "USAGE": "{{prefix}}jail (@üye)",
+    "EXAMPLES": "{{prefix}}jail\n{{prefix}}jail @Androz#2091"
+}

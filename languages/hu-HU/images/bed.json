@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"Szerelem\" képet generálok a Nekobot API segítségével",
+    "USAGE": "{{prefix}}love [@tag1] (@tag2)",
+    "EXAMPLES": "{{prefix}}love @Androz#2091\n{{prefix}}love @Androz#2091 @Marty#0303"
+}

@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Próbálj meg egy tagot kirabolni!",
+    "USAGE": "{{prefix}}rob [@tag] [összeg]",
+    "EXAMPLES": "{{prefix}}rob @Androz#2091 100",
+    "YOURSELF": "Nem rabolhatod el magadat!",
+    "MISSING_MEMBER": "Meg kell adnod egy érvényes tagot a rabláshoz!",
+    "MISSING_AMOUNT": "Adj meg egy érvényes összeg!",
+    "NOT_ENOUGH_AUTHOR": "A rablás megkísérléséhez több mint **{{moneyMin}}** kreditet kell szerezned (Neked **{{moneyCurrent}}** kredited van)!",
+    "NOT_ENOUGH_MEMBER": "Nem próbálhatod ki a rablást, mert a **{{username}}** nem rendelkezik annyi pénzzel!",
+    "COOLDOWN": "🕵️ **{{username}}** az őr.... Várj egy kicsit, és próbáld újra!",
+    "ROB_WON_1": "🎉 | Gratulálok! A rendőrség nem volt elég gyors ahhoz, hogy megakadályozza **{{money}}** kredit ellopását **{{username}}** felhasználótól!",
+    "ROB_WON_2": "😕 | **{{username}}** ? Rossz hír. Kiraboltak téged **{{money}}** kredittel!",
+    "ROB_LOSE_1": "🚔 | A rendőrség elkapott téged a cselekedetből, lehetetlen tagadni, a bírságod **{{fine}}** kredit. **{{offset}}** ellopott kredit visszakerült **{{username}}** felhasználóhoz.",
+    "ROB_LOSE_2": "🚓 | Rossz hír.... **{{username}}** időben felhívta a rendőrséget. Bírságod **{{fine}}** kredit és **{{offset}}** kredit került befizetésre **{{username}}** felhasználónak."
+}

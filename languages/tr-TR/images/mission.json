@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Amethyste API yı kullanarak \"mission\" resmi yap",
+    "USAGE": "{{prefix}}mission (@üye)",
+    "EXAMPLES": "{{prefix}}mission\n{{prefix}}mission @Androz#2091"
+}

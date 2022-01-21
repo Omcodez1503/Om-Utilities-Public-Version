@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Débannir l'utilisateur du serveur !",
+    "USAGE": "{{prefix}}unban [userID/user#0000]",
+    "EXAMPLES": "{{prefix}}unban 422820341791064085\n{{prefix}}unban Androz#2091",
+    "MISSING_ID": "Veuillez indiquer l'ID du membre que vous souhaitez débannir !",
+    "NOT_BANNED": "**{{username}}** n'est pas banni !",
+    "UNBANNED": "**{{username}}** vient d'être débanni de **{{server}} ** !"
+}

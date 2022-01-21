@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Paranı bankada sakla",
+    "USAGE": "{{prefix}}deposit [amount]",
+    "EXAMPLES": "{{prefix}}deposit 400",
+    "MISSING_AMOUNT": "Lütfen uygun bir miktar gir!",
+    "NO_CREDIT": "Bankaya koyacak paran yok!",
+    "NO_ENOUGH_CREDIT": "`{{money}}` kadar paran yok!",
+    "SUCCESS": "**{{money}}** Paranı banka hesabına yatrıdım!"
+}

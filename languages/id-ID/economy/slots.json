@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Kasino Om Utilities",
+    "USAGE": "{{prefix}}slots [jumlah]",
+    "EXAMPLES": "{{prefix}}slots\n{{prefix}}slots 10",
+    "DEFEAT": "**{{username}}** menggunakan {{money}} kredit dan kehilangan semuanya.",
+    "VICTORY": "**{{username}}** menggunakan {{money}} dan memenangkan {{won}} kredit!",
+    "NOT_ENOUGH": "Kamu butuh setidaknya **{{money}}** kredit."
+}

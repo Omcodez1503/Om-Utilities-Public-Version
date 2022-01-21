@@ -1,0 +1,114 @@
+{
+    "name": "omutilities",
+    "version": "4.12.0",
+    "description": "A very useful and fun bot for your Discord Server's Enrichment! 70+ commands!",
+    "engines": {
+        "node": "16.x"
+    },
+    "main": "OmUtilities.js",
+    "scripts": {
+        "start": "node OmUtilities.js",
+        "lint": "eslint . --ext .js",
+        "testcfg": "node scripts/verify-config.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Omcodez1503"
+    },
+    "author": "President Om#2024",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Omcodez1503"
+    },
+    "homepage": "https://github.com/Omcodez1503",
+    "dependencies": {
+        "@discord-player/extractor": "^3.0.0",
+        "@discordjs/opus": "^0.5.0",
+        "@k3rn31p4nic/google-translate-api": "github:k3rn31p4nic/google-translate-api",
+        "@sentry/node": "6.3.6",
+        "@sindresorhus/slugify": "^1.1.0",
+        "amethyste-api": "github:Androz2091/amethyste-api",
+        "ascii-table": "0.0.9",
+        "axios": "^0.19.2",
+        "blague.xyz": "^1.0.6",
+        "btoa": "^1.2.1",
+        "canvacord": "^5.1.0",
+        "canvas": "^2.6.1",
+        "chalk": "^4.1.0",
+        "colors-generator": "^0.3.4",
+        "cron": "^1.7.2",
+        "dblapi.js": "^2.3.0",
+        "discord-backup": "^2.5.0",
+        "discord-canvas": "^1.3.2",
+        "discord-giveaways": "^4.4.3",
+        "discord-paginationembed": "^2.1.0",
+        "discord-player": "^4.1.0",
+        "discord.js": "^12.5.3",
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "express-session": "^1.17.0",
+        "ffmpeg-static": "^4.4.0",
+        "figlet": "^1.5.0",
+        "fortnite": "^4.3.2",
+        "gamedig": "^3.0.0",
+        "i18next": "^20.2.2",
+        "i18next-node-fs-backend": "^2.1.3",
+        "joker": "^0.9.0",
+        "js-string-cleaner": "^1.0.3",
+        "lyrics-finder": "^21.7.0",
+        "markdown-table": "2.0.0",
+        "mathjs": "^9.0.0",
+        "md5": "^2.2.1",
+        "moment": "^2.26.0",
+        "mongoose": "^5.13.7",
+        "ms": "^2.1.3",
+        "node-fetch": "^2.6.2",
+        "node.js": "*",
+        "npm-git-install": "^0.3.0",
+        "string-sanitizer": "^1.1.1",
+        "weather-js": "^2.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.5.0"
+    },
+    "eslintConfig": {
+        "env": {
+            "commonjs": true,
+            "es2020": true,
+            "node": true
+        },
+        "extends": "eslint:recommended",
+        "globals": {
+            "Atomics": "readonly",
+            "SharedArrayBuffer": "readonly"
+        },
+        "parserOptions": {
+            "ecmaVersion": 2020
+        },
+        "rules": {
+            "prefer-const": [
+                "error"
+            ],
+            "indent": [
+                "error",
+                "tab",
+                {
+                    "SwitchCase": 1
+                }
+            ],
+            "quotes": [
+                "error",
+                "double"
+            ],
+            "semi": [
+                "error",
+                "always"
+            ],
+            "linebreak-style": 0,
+            "require-atomic-updates": 0
+        }
+    },
+    "eslintIgnore": [
+        "dashboard/public"
+    ]
+}

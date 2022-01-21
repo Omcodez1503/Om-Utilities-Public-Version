@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Sana doğruları söylüyorum!",
+    "USAGE": "{{prefix}}8ball [question]",
+    "EXAMPLES": "{{prefix}}8ball Is Om Utilities en iyi discord botumu?",
+    "ERR_QUESTION": "Bir soru girmen gerek!",
+    "RESPONSE_1": "Bundan çok eminim.",
+    "RESPONSE_2": "bu kesinlikle güvenli.",
+    "RESPONSE_3": "kesinlikle, evet.",
+    "RESPONSE_4": "sana en iyisini söyleyemem.",
+    "RESPONSE_5": "daha sonra tekrar sor.",
+    "RESPONSE_6": "bunu düşünemem.",
+    "RESPONSE_7": "Öyle düşünmüyorum.",
+    "RESPONSE_8": "kaynaklarım hayır diyor.",
+    "RESPONSE_9": "hayır.",
+    "RESPONSE_10": "dışarısı güzel değil."
+}

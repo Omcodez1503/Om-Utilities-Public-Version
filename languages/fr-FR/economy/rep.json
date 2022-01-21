@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Donnez un point de réputation à quelqu'un !",
+    "USAGE": "{{prefix}}rep [utilisateur]",
+    "EXAMPLES": "{{prefix}}rep @Androz#2091",
+    "COOLDOWN": "Vous devez attendre {{time}} avant de pouvoir `rep` quelqu'un !",
+    "INVALID_USER": "Vous devez mention a utilisateur valide !",
+    "BOT_USER": "Les bots n'acceptent pas les points de réputation !",
+    "YOURSELF": "Vous ne pouvez pas donner de points de réputation à vous-même !",
+    "SUCCESS": "Vous avez bien donné un point de réputation à {{username}} !"
+}

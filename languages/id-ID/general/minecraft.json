@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Menunjukan informasi tentang server Minecraft!",
+    "USAGE": "{{prefix}}minecraft [ip]",
+    "EXAMPLES": "{{prefix}}minecraft mc.hypixel.net",
+    "MISSING_IP": "Harap berikan alamat IP yang valid!",
+    "FAILED": "Server ini offline atau memblokir akses!",
+    "ONLINE": "Online",
+    "OFFLINE": "Offline",
+    "PLAYERS": "{{count}} pemain",
+    "FIELD_NAME": "Informasi tentang {{ip}}",
+    "FIELD_VERSION": "Versi",
+    "FIELD_CONNECTED": "Saat ini terhubung",
+    "FIELD_MAX": "Maksimum",
+    "FIELD_STATUS": "Status",
+    "FIELD_IP": "IP Penuh"
+}

@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Sunucu hakkında bilgi gösterir!",
+    "USAGE": "{{prefix}}serverinfo [ID/İsim",
+    "EXAMPLES": "{{prefix}}serverinfo Om Utilities\n{{prefix}}serverinfo",
+    "AFK_CHANNEL": "AFK kanalı",
+    "NO_AFK_CHANNEL": "AFK kanalı ayarlanmadı",
+    "MEMBERS": "{{count}} üyeler",
+    "BOTS": "{{count}} botlar",
+    "BOOSTS": "Boost sayısı",
+    "TEXT_CHANNELS": "{{count}} yazı kanalı",
+    "VOICE_CHANNELS": "{{count}} ses kanalı",
+    "CAT_CHANNELS": "{{count}} kategori"
+}

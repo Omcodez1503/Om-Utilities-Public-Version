@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Lösche einen benutzerdefinierten Befehl!",
+    "USAGE": "{{prefix}}delcommand [name-of-the-command]",
+    "EXAMPLES": "{{prefix}}delcommand hey",
+    "MISSING_NAME": "Bitte gebe einen korrekten Befehlsnamen ein!",
+    "UNKNOWN_COMMAND": "Der Befehl {{commandName}} existiert nicht!",
+    "SUCCESS": "Der Befehl {{commandName}} wurde vom Server gelöscht!"
+}

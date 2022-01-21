@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Az igazat mondom neked!",
+    "USAGE": "{{prefix}}8ball [kérdés]",
+    "EXAMPLES": "{{prefix}}8ball Az Om Utilities a legjobb Discord bot?",
+    "ERR_QUESTION": "Meg kell adnod egy kérdést!",
+    "RESPONSE_1": "Biztos vagyok benne.",
+    "RESPONSE_2": "Ez határozottan biztonságos.",
+    "RESPONSE_3": "Igen határozottan.",
+    "RESPONSE_4": "Jobb, ha nem mondom most.",
+    "RESPONSE_5": "Később kérdezd újra.",
+    "RESPONSE_6": "Ne számíts rá.",
+    "RESPONSE_7": "Nem hiszem.",
+    "RESPONSE_8": "A forrásom nem.",
+    "RESPONSE_9": "Nem.",
+    "RESPONSE_10": "A kilátások nem olyan jók."
+}

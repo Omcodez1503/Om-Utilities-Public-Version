@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Menunjukan tautan Om Utilities!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Tautan Om Utilities",
+    "TIP": "Kirim `{{prefix}}invite copy` untuk bisa menyalin tautan undangan!",
+    "ADD": "Undang Om Utilities",
+    "VOTE": "Beri suara untuk Om Utilities",
+    "SUPPORT": "Dapatkan Bantuan"
+}

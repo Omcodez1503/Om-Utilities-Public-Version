@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Minecraft sunucuları hakkında bilgi gösterir!",
+    "USAGE": "{{prefix}}minecraft [ip]",
+    "EXAMPLES": "{{prefix}}minecraft mc.hypixel.net",
+    "MISSING_IP": "Lütfen uygun bir ip adresi giriniz!",
+    "FAILED": "Bu sunucu ya kapalı yada erişim sağlayamıyoruz!",
+    "ONLINE": "Çevrimiçi",
+    "OFFLINE": "Çevrimdışı",
+    "PLAYERS": "{{count}} oyuncular",
+    "FIELD_NAME": "{{ip}} Sunucusu hakkında bilgi",
+    "FIELD_VERSION": "Sürüm",
+    "FIELD_CONNECTED": "Şuanda bağlı",
+    "FIELD_MAX": "Maximum",
+    "FIELD_STATUS": "Durum",
+    "FIELD_IP": "Tam IP"
+}

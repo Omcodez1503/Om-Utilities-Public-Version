@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Om Utilities linkekjeinek megtekintése!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Om Utilities Linkjei",
+    "TIP": "Írd be a `{{prefix}}invite copy` parancsot, hogy másold a meghívó linket!",
+    "ADD": "Om Utilities Meghívása",
+    "VOTE": "Szavazás az Atlantára",
+    "SUPPORT": "Támogatást kapni"
+}

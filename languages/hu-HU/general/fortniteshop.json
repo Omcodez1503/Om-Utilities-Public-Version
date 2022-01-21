@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "A napi fortnite cikk megtekintése!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "FORTINTE TÉTELEK BOLT",
+    "DAILY": "NAPI",
+    "FEATURED": "KIEMELT",
+    "DATE": "{{date}} Fortnite bolt",
+    "FOOTER": "Fortnite Shop, Om Utilities által"
+}

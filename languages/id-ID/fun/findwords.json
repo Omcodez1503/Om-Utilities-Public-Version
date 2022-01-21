@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Mulai pesta Mencarikata, sebuah permainan dimana kamu harus mencari kata - kata!",
+    "USAGE": "{{prefix}}findwords",
+    "EXAMPLES": "{{prefix}}findwords",
+    "INVALID_WORD": "{{member}} | Kata-mu tidak valid!",
+    "GAME_STARTING": ":timer: | Permainan dimulai dalam 10 detik!",
+    "FIND_WORD": "20 detik untuk mencari kata mengandung \"__**{{word}}**__\"!",
+    "WORD_FOUND": "Kerja bagus {{winner}}! Kamu adalah yang tercepat untuk memberikan kata yang valid!",
+    "GAME_STATS": "🎉 | {{winner}} memenangkan permainan!\n\n**Statistik:**\n*-* __**Durasi**__: {{time}}\n*-* __**Peserta**__: {{participants}} ({{participantCount}})**Statistik permainan: **\n__**Durasi**__: {{duration}}\n__**Junlah peserta**__ : {{participantCount}}\n__**Peserta**__ : \n{{participantList}}",
+    "CREDITS": "{{winner}} memenangkan 15 kredit! 🎉",
+    "NO_WINNER_ALL": "Tidak ada kata ditemukan, tidak ada yang menang!",
+    "NO_WINNER": "Tidak ada kata ditemukan, tidak ada yang menang!"
+}

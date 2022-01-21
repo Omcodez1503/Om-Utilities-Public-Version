@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Kredited megtekintése",
+    "USAGE": "{{prefix}}money (@tag)",
+    "EXAMPLES": "{{prefix}}money\n{{prefix}}money @user#0000",
+    "TITLE": "{{username}} egyenlege"
+}

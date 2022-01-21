@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Ganti biografimu!",
+    "USAGE": "{{prefix}}setbio [biografi]",
+    "EXAMPLES": "{{prefix}}setbio Nama saya Jake, saya 19 tahun dan saya suka pemrograman!",
+    "MISSING": "Kamu harus menentukan biografi!",
+    "MAX_CHARACT": "Biografimu tidak boleh melebihi 500 karakter!",
+    "SUCCESS": "Biografimu telah dimodifikasi!"
+}

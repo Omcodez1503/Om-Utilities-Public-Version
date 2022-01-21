@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Moderationsbefehle automatisch löschen!",
+    "USAGE": "{{prefix}}deletemod [on/off]",
+    "EXAMPLES": "{{prefix}}deletemod on",
+    "MISSING_STATUS": "Du musst `on` oder `off` angeben",
+    "ENABLED": "Automatische Moderation Befehl-Löschung!",
+    "DISABLED": "Automatische Moderation Befehl-Löschung deaktiviert!"
+}

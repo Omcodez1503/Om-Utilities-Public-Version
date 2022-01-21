@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Tempo de espera do canal",
+    "USAGE": "{{prefix}}slowmode [#canal] (tempo)",
+    "EXAMPLES": "{{prefix}}slowmode #geral 10m\n{{prefix}}slowmode #geral",
+    "DISABLED": "**O Slowmode foi desativo no canal {{channel}}!**\n\n:arrow_right_hook: *Use`{{prefix}}slowmode [#canal] (tempo)` para ativá-lo novamente!*",
+    "ENABLED": "**O Slowmode foi desativo no canal {{channel}}!**\n\n:arrow_right_hook: *Use`{{prefix}}slowmode [#canal] (tempo)` para ativá-lo novamente!*",
+    "PLEASE_WAIT": "O canal {{channel}} está em modo lento! Por favor, aguarde um intervalo de {{time}} entre cada mensagem!"
+}

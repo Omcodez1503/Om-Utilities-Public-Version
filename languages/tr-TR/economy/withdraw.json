@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Paranı çek!",
+    "USAGE": "{{prefix}}withdraw [amount]",
+    "EXAMPLES": "{{prefix}}withdraw 400",
+    "MISSING_AMOUNT": "Lütfen çekmek için uygun bir miktar gir!",
+    "NO_CREDIT": "Bankanda hiç kredi yok!",
+    "NOT_ENOUGH": "Şu kadar krediye ihtiyacın var `{{money}}`!",
+    "SUCCESS": "**{{money}}** kredi çektin!"
+}

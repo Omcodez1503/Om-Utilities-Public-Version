@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Affiche les informations sur le dépôt Github d'Om Utilities !",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Cliquez ici pour accéder au GitHub d'Om Utilities",
+    "LANGUAGE": "Langue de programmation",
+    "OWNER": "Propriétaire du GitHub d'Om Utilities"
+}

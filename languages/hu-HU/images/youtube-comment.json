@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"youtube-komment\" kép generálása",
+    "USAGE": "{{prefix}}youtube-comment (@tag) [szöveg]",
+    "EXAMPLES": "{{prefix}}youtube-comment Szia!\n{{prefix}}youtube-comment @Androz#2091 Szia!"
+}

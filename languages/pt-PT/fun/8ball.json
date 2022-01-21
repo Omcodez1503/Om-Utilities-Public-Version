@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Eu estou te dizendo a verdade!",
+    "USAGE": "{{prefix}}8ball [question]",
+    "EXAMPLES": "{{prefix}}8ball Om Utilities é o melhor bot para discord?",
+    "ERR_QUESTION": "Deves inserir uma questão!",
+    "RESPONSE_1": "Estou certo disso.",
+    "RESPONSE_2": "é definitivamente seguro.",
+    "RESPONSE_3": "sim definitivamente.",
+    "RESPONSE_4": "melhor não te dizer agora.",
+    "RESPONSE_5": "pergunte novamente mais tarde.",
+    "RESPONSE_6": "não conte com isso.",
+    "RESPONSE_7": "Eu não acho.",
+    "RESPONSE_8": "minhas fontes dizem não.",
+    "RESPONSE_9": "não.",
+    "RESPONSE_10": "a perspectiva não é tão boa."
+}

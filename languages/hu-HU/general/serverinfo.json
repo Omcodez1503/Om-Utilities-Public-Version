@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "A szerverről információk megtekintése!",
+    "USAGE": "{{prefix}}serverinfo [ID/Név]",
+    "EXAMPLES": "{{prefix}}serverinfo Om Utilities\n{{prefix}}serverinfo",
+    "AFK_CHANNEL": "AFK csatora",
+    "NO_AFK_CHANNEL": "Nincs AFK csatorna",
+    "MEMBERS": "{{count}} felhasználók",
+    "BOTS": "{{count}} botok",
+    "BOOSTS": "Kiemelési szám",
+    "TEXT_CHANNELS": "{{count}} szöveg",
+    "VOICE_CHANNELS": "{{count}} hang",
+    "CAT_CHANNELS": "{{count}} kategoriák"
+}

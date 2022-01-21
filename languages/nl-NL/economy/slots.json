@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "The Om Utilities casino",
+    "USAGE": "{{prefix}}slots [amount]",
+    "EXAMPLES": "{{prefix}}slots\n{{prefix}}slots 10",
+    "DEFEAT": "**{{username}}** gebruikte {{money}} credit(s) en verloor alles.",
+    "VICTORY": "**{{username}}** gebruikte {{money}} credit(s) en won {{won}} credit(s)!",
+    "NOT_ENOUGH": "You need at least **{{money}}** credit(s)."
+}
