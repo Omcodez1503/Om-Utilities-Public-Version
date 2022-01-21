@@ -26,4 +26,4 @@ https://discord.gg/5g34g8sVsT
 
 Bot Website: https://omutilities.netlify.app/
 
-https://cdn.discordapp.com/attachments/881924720474337291/934095327340953630/video_image_1.jpeg
+
