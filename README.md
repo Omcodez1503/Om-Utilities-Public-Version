@@ -19,3 +19,7 @@ See Down Below For A List Of Things That The Bot Can Do! We Always Support Any F
 ✔The bot is available in multiple languages for ease of use and access!
 
 🌏Thank you for using our service to help you out!🌏
+
+Join the support server if you need any help! 
+
+https://discord.gg/5g34g8sVsT
