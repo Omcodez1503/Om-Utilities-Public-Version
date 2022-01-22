@@ -1,4 +1,4 @@
-# Om_Utilities
+# Om_Utilities Modified And Improved Version Of Atlanta Bot
  
 🌏Om Utilities is an all-around multipurpose bot that has tons of features ranging from Moderation To Fun, Utility, And Music Features ready for you to enjoy and enlighten your server!
 
