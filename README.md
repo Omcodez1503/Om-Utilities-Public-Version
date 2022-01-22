@@ -28,6 +28,12 @@ Bot Website: https://omutilities.netlify.app/
 
 Emoji Server: https://discord.gg/3DPYrUwTap
 
+Credits to https://github.com/Androz2091 for making the orginal repo of the Bot.
+
+Om Utilities is just an modified version of Atlanta Bot 
+
 ![video_image (1)](https://user-images.githubusercontent.com/76506512/150546673-a1602a88-fa51-4916-b123-d81f70fd96a9.jpeg)
+
+
 
 
