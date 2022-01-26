@@ -26,6 +26,8 @@ https://discord.gg/5g34g8sVsT
 
 Bot Website: https://omutilities.netlify.app/
 
+Dashboard: http://66.175.238.237:20020/
+
 Emoji Server: https://discord.gg/3DPYrUwTap
 
 Credits to https://github.com/Androz2091 for making the orginal repo of the Bot.
