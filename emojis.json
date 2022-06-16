@@ -1,7 +1,9 @@
 {
 	"To get access to these emojis,": "add your bot on https://discord.gg/3DPYrUwTap",
 	
-	
+	"command":"oteg verify",
+  	"roleID": "885263444289392700",
+ 	"roleID2": "885263445065342976", 
 	"stats": "<:atlanta_stats:598179382657286152>",
 	"ram": "<:atlanta_ram:598178809031688192>",
 	"version": "<:atlanta_version:598178475525931014>",
