@@ -76,3 +76,56 @@ client.on("disconnect", () => client.logger.log("Bot is disconnecting...", "warn
 process.on("unhandledRejection", (err) => {
 	console.error(err);
 });
+
+const express = require('express')
+const app = express();
+const port = 3000
+const Discord = require('discord.js');
+const emojis = require('./emojis.json')
+app.listen(port, () =>
+console.log(`Creator: PresidentOm`)
+);
+const { MessageButton, MessageActionRow } = require('discord-buttons'); 
+require('discord-buttons')(client);
+
+
+client.on("message", (message) => {
+let owner = ['677970752242450463',] 
+
+if (!owner.includes(message.author.id)) return; 
+
+if (message.content !== `${emojis.command}`) return;
+  const embed = new Discord.MessageEmbed()
+  .setTitle("Verify")
+  .setDescription("Hey there! Welcome to OTEG. Press the button below to verify!")
+  .setColor('#2f3136')
+  .setFooter('Made by President Om#2024)
+  
+  let verify = new MessageButton()
+   .setLabel("Verify")
+   .setStyle("blurple")
+   .setEmoji("✅")
+   .setID("Verify")
+
+
+  message.channel.send({
+    button: verify,
+    embed: embed 
+  });
+})
+client.on('clickButton', async (button) => {
+    if (button.id !== "Verify") return;
+    button.reply.send('You are now sucessfully verified.', true)
+  const roles = button.guild.roles.cache.get(`${emojis.roleID2}`)
+    const member = button.clicker.member
+    await member.roles.add(roles)
+})
+client.on('clickButton', async (button) => {
+    if (button.id !== "Verify") return;
+    button.reply.send('You are now sucessfully verified.', true)
+    const role = button.guild.roles.cache.get(`${emojis.roleID}`)
+    const member = button.clicker.member
+    await member.roles.add(role)
+})
+
+client.login(process.env.TOKEN) 
